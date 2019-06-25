@@ -2,13 +2,8 @@
 This LED Light Sculputre was originally a little birthday gift I made for a friend, but turned into a little more...so I ended up building a number of them for various occasions :smile:
 
 
-<img src="http://mclemens.mgserver.org/Images/IMG_0890.JPG" style="transform:rotate(90deg);">
+![Muli-Color Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_1170.JPG)
 
-![Green Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_0890.JPG)
-
-![Orange #1 Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_1569%202.JPG)
-
-![Orange #2 Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_1639.JPG)
 
 ## Getting Started
 
