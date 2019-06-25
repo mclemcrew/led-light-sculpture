@@ -3,6 +3,8 @@ This LED Light Sculputre was originally a little birthday gift I made for a frie
 
 ![Mixed Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_1170.JPG)
 
+<a href="http://mclemens.mgserver.org/Images/IMG_0890.JPG"></a>
+
 ![Green Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_0890.JPG)
 
 ![Orange #1 Image of LED Sculpture](http://mclemens.mgserver.org/Images/IMG_1569%202.JPG)
