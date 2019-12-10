@@ -14,7 +14,7 @@ Due to the nature of this project, the code isn't necessarily transferrable to o
 * [Arduino Nano] - The microcontroller used
 * [WS2812B RGB 5050 LED Array] – LED array inside the sculpture
 
-You can purchase the Nano [here](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_1_sspa?keywords=arduino+nano&qid=1576016926&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDR0YxUUJCSVc1NEwmZW5jcnlwdGVkSWQ9QTAzOTgwODdaWDlaUVcyNlo5MEUmZW5jcnlwdGVkQWRJZD1BMDY2OTI4OTE3WElKN1FTUlA2WlUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) and the LED array [here] (https://www.amazon.com/gp/product/B01DC0IMRW/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1).
+You can purchase the Nano [here](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_1_sspa?keywords=arduino+nano&qid=1576016926&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDR0YxUUJCSVc1NEwmZW5jcnlwdGVkSWQ9QTAzOTgwODdaWDlaUVcyNlo5MEUmZW5jcnlwdGVkQWRJZD1BMDY2OTI4OTE3WElKN1FTUlA2WlUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) and the LED array [here](https://www.amazon.com/gp/product/B01DC0IMRW/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1).
 
 ## CAD Files
 
