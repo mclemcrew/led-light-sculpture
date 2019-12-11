@@ -13,8 +13,21 @@ Due to the nature of this project, the code isn't necessarily transferrable to o
 
 * [Arduino Nano] - The microcontroller used
 * [WS2812B RGB 5050 LED Array] – LED array inside the sculpture
+* [1/8" Cast Acrylic]
+* [SPDT (Single Pole, Double Throw) Switch]
+* [Momentary Push Button]
+* [USB Micro Cable]
+* [USB Wall Charger]
 
-You can purchase the Nano [here](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_1_sspa?keywords=arduino+nano&qid=1576016926&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDR0YxUUJCSVc1NEwmZW5jcnlwdGVkSWQ9QTAzOTgwODdaWDlaUVcyNlo5MEUmZW5jcnlwdGVkQWRJZD1BMDY2OTI4OTE3WElKN1FTUlA2WlUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) and the LED array [here](https://www.amazon.com/gp/product/B01DC0IMRW/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1).
+## Purchasing Options
+Obviously you can browse the Internet for the best deals, but here's the list of items I used for this project:
+[Arduino Nano](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_1_sspa?keywords=arduino+nano&qid=1576016926&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDR0YxUUJCSVc1NEwmZW5jcnlwdGVkSWQ9QTAzOTgwODdaWDlaUVcyNlo5MEUmZW5jcnlwdGVkQWRJZD1BMDY2OTI4OTE3WElKN1FTUlA2WlUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+[LED array](https://www.amazon.com/gp/product/B01DC0IMRW/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1)
+[1/8" Cast Acrylic](https://www.amazon.com/gp/product/B07JCGT6VZ/ref=ppx_yo_dt_b_asin_title_o04_s02?ie=UTF8&psc=1)
+[SPDT Switch](https://www.amazon.com/gp/product/B01N7NCW8N/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+[Momentary Push Button](https://www.amazon.com/gp/product/B01E38OS7K/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+[USB Micro Cable](https://www.amazon.com/gp/product/B007NLUI1U/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+[USB Wall Charger](https://www.amazon.com/gp/product/B07C2QG8BB/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1)
 
 ## CAD Files
 
