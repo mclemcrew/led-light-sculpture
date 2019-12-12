@@ -39,7 +39,11 @@ I have provided a template for the circular design that I wanted.  You will need
 
 ## Circuit Diagram
 
-![Circuit Diagram from LED Sculpture](http://mclemens.mgserver.org/Images/lightbox-sketch.png)
+If you want to run the lightbox off a 9V battery, the circuit diagram is pictured below.
+
+![Circuit Diagram from LED Sculpture](http://mclemens.mgserver.org/Images/light-box-sketch.png)
+
+If you want to run the lightbox off AC wall power (what the materials listed above are for) then the circuit diagram changes just a bit.  Take the USB micro cable and solder the power (red) wire to the SPDT switch instead of the one coming from the 9V battery.  The ground wire from the micro USB should remain connected to the Arduino Nano. The green and white wires in the USB cord can be cut away...they aren't going to be used here.  You can use the Vin port of the Nano or just plug the other end of the USB micro cable into the USB port and connect the cables accordingly.
 
 ## Authors
 
